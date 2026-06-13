@@ -1,7 +1,13 @@
 # Hi there, 👋
 
 this table is a developer somehow. idk why.
-> This table writes code. The code sometimes works. The table learns. 🚀
+
+*The Table Lifecycle:*
+> - This table writes code.
+> - The code sometimes works, and sometimes it crashes.
+> - The table fixes it.
+> - The table learns.
+> - repeat
 
 You can connect with this table at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ak-mesa)
 
