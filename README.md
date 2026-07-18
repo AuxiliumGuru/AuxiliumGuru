@@ -82,6 +82,8 @@ developer_div:
 ![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1F2937?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
 ![React](https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=F89820)
+![C#](https://img.shields.io/badge/C%23-1F2937?style=for-the-badge&logo=csharp&logoColor=239120)
 ![SQLite](https://img.shields.io/badge/SQLite-1F2937?style=for-the-badge&logo=sqlite&logoColor=003B57)
 
 ### AI Stack
