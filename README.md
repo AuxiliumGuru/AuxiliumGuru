@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Building practical AI systems, agent workflows, and developer-focused automation.
+  Building practical AI systems, agent workflows, and automation.
 </p>
 
 <p align="center">
