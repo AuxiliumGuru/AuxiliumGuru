@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ak-mesa">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" />
   </a>
   <a href="https://ak-mesa.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-ak--mesa.vercel.app-111827?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square" />
   </a>
 </p>
 
