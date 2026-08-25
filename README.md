@@ -107,3 +107,9 @@ developer_div:
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-111827?style=for-the-badge&logo=digitalocean&logoColor=0080FF)
 
 ---
+
+### Data Intelligence
+
+![PySpark](https://img.shields.io/badge/PySpark-1F2937?style=for-the-badge&logo=apache-spark&logoColor=E5E7EB)
+![Databricks](https://img.shields.io/badge/Databricks-111827?style=for-the-badge&logo=databricks&logoColor=FF6C37)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=4169E1)
