@@ -2,12 +2,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-0A66C2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI--Automation%20Specialist-0F766E?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML%20Builder-334155?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Engineer-0F766E?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
-  Building practical AI systems, agent workflows, and automation.
+  <i>Transforming raw data into structured insights</i>
 </p>
 
 <p align="center">
@@ -57,24 +56,6 @@ developer_div:
 
 ---
 
-## Capability Snapshot
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20Fundamentals-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Generative%20AI-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP%20Servers-0A66C2?style=for-the-badge" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/API%20Engineering-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation%20Workflows-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model%20Integration-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deployment%20Ready-0F766E?style=for-the-badge" />
-</p>
-
----
-
 ## Tech Stack
 
 ### Languages & Frameworks
@@ -89,8 +70,13 @@ developer_div:
 ### AI Stack
 ![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-111827?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+
+### Data Intelligence
+
+![PySpark](https://img.shields.io/badge/PySpark-1F2937?style=for-the-badge&logo=apache-spark&logoColor=E5E7EB)
+![Databricks](https://img.shields.io/badge/Databricks-111827?style=for-the-badge&logo=databricks&logoColor=FF6C37)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 ### Tooling
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
@@ -108,8 +94,4 @@ developer_div:
 
 ---
 
-### Data Intelligence
 
-![PySpark](https://img.shields.io/badge/PySpark-1F2937?style=for-the-badge&logo=apache-spark&logoColor=E5E7EB)
-![Databricks](https://img.shields.io/badge/Databricks-111827?style=for-the-badge&logo=databricks&logoColor=FF6C37)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=4169E1)
